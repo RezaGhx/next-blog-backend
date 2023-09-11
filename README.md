@@ -1,2 +1,1 @@
-# next-blog-backend
-next-blog-backend
+backend project of next-app project for next.js courses
