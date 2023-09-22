@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "saheb-practice",
+  "name": "next-blog-backend",
   "version": "1.0.0",
   "description": "learning nodejs",
   "main": "app.js",
@@ -10,7 +10,7 @@
   "engines": {
     "node": "16.14.0"
   },
-  "author": "saheb",
+  "author": "rezaghx",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",

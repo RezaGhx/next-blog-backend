@@ -73,8 +73,8 @@ export const products = [
 
 export const users = [
   {
-    name: "Saheb mohamadi",
-    email: "saheb.example@gmail.com",
+    name: "Reza Ghafouri",
+    email: "rezaghx@github.com",
     password: bcrypt.hashSync("12345", 8),
     phoneNumber: "09180000001",
     isAdmin: true,
